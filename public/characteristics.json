@@ -1,0 +1,122 @@
+[
+    {
+        "description": "Loves to eat",
+        "url": "https://pokeapi.co/api/v2/characteristic/1/"
+    },
+    {
+        "description": "Proud of its power",
+        "url": "https://pokeapi.co/api/v2/characteristic/2/"
+    },
+    {
+        "description": "Sturdy body",
+        "url": "https://pokeapi.co/api/v2/characteristic/3/"
+    },
+    {
+        "description": "Highly curious",
+        "url": "https://pokeapi.co/api/v2/characteristic/4/"
+    },
+    {
+        "description": "Strong willed",
+        "url": "https://pokeapi.co/api/v2/characteristic/5/"
+    },
+    {
+        "description": "Likes to run",
+        "url": "https://pokeapi.co/api/v2/characteristic/6/"
+    },
+    {
+        "description": "Takes plenty of siestas",
+        "url": "https://pokeapi.co/api/v2/characteristic/7/"
+    },
+    {
+        "description": "Likes to thrash about",
+        "url": "https://pokeapi.co/api/v2/characteristic/8/"
+    },
+    {
+        "description": "Capable of taking hits",
+        "url": "https://pokeapi.co/api/v2/characteristic/9/"
+    },
+    {
+        "description": "Mischievous",
+        "url": "https://pokeapi.co/api/v2/characteristic/10/"
+    },
+    {
+        "description": "Somewhat vain",
+        "url": "https://pokeapi.co/api/v2/characteristic/11/"
+    },
+    {
+        "description": "Alert to sounds",
+        "url": "https://pokeapi.co/api/v2/characteristic/12/"
+    },
+    {
+        "description":"Nods off a lot",
+        "url": "https://pokeapi.co/api/v2/characteristic/13/"
+    },
+    {
+        "description":"A little quick tempered",
+        "url": "https://pokeapi.co/api/v2/characteristic/14/"
+    },
+    {
+        "description":"Highly persistent",
+        "url": "https://pokeapi.co/api/v2/characteristic/15/"
+    },
+    {
+        "description":"Thoroughly cunning",
+        "url": "https://pokeapi.co/api/v2/characteristic/16/"
+    },
+    {
+        "description":"Strongly defiant",
+        "url": "https://pokeapi.co/api/v2/characteristic/17/"
+    },
+    {
+        "description":"Impetuous and silly",
+        "url": "https://pokeapi.co/api/v2/characteristic/18/"
+    },
+    {
+        "description":"Scatters things often",
+        "url": "https://pokeapi.co/api/v2/characteristic/19/"
+    },
+    {
+        "description":"Likes to fight",
+        "url": "https://pokeapi.co/api/v2/characteristic/20/"
+    },
+    {
+        "description":"Good endurance",
+        "url": "https://pokeapi.co/api/v2/characteristic/21/"
+    },
+    {
+        "description":"Often lost in thought",
+        "url": "https://pokeapi.co/api/v2/characteristic/22/"
+    },
+    {
+        "description":"Hates to lose",
+        "url": "https://pokeapi.co/api/v2/characteristic/23/"
+    },
+    {
+        "description":"Somewhat of a clown",
+        "url": "https://pokeapi.co/api/v2/characteristic/24/"
+    },
+    {
+        "description":"Likes to relax",
+        "url": "https://pokeapi.co/api/v2/characteristic/25/"
+    },
+    {
+        "description":"Quick tempered",
+        "url": "https://pokeapi.co/api/v2/characteristic/26/"
+    },
+    {
+        "description":"Good perseverance",
+        "url": "https://pokeapi.co/api/v2/characteristic/27/"
+    },
+    {
+        "description":"Very finicky",
+        "url": "https://pokeapi.co/api/v2/characteristic/28/"
+    },
+    {
+        "description":"Somewhat stubborn",
+        "url": "https://pokeapi.co/api/v2/characteristic/29/"
+    },
+    {
+        "description":"Quick to flee",
+        "url": "https://pokeapi.co/api/v2/characteristic/30/"
+    }
+]
