@@ -1,6 +1,7 @@
 import { useContext, useEffect } from "react";
 import { DataContext, TabContext, UserInputContext } from "./page";
 import { capitalizeFirstLetters } from "./helperFunctions";
+import PokeBallSelector from "./PokeBallSelector";
 
 export default function GeneralTab() {
     const { allGenders, allItems, allPokeBalls } = useContext(DataContext);
@@ -80,18 +81,7 @@ export default function GeneralTab() {
                 />
             </div>
 
-            <div className="py-3">
-                <label htmlFor="poke-ball" className="font-medium">Poké Ball:</label>
-                <select className="shadow border rounded w-full py-2 px-3 leading-tight" name="poke-ball" id="poke-ball" onChange={valueToState}>
-                    {
-                        allPokeBalls == undefined ? null : allPokeBalls.map((pokeBall: { name: string, url: string }) => (
-                            <option key={pokeBall.name} value={pokeBall.name}>
-                                {capitalizeFirstLetters(pokeBall.name, "-", " ")}
-                            </option>
-                        ))
-                    }
-                </select>
-            </div>
+            <PokeBallSelector />
 
             <div className="py-3">
                 <label htmlFor="item" className="font-medium">Held Item:</label>
